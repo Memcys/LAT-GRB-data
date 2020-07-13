@@ -1,0 +1,11 @@
+--2020-03-06 15:03:30--  https://fermi.gsfc.nasa.gov/FTP/fermi/data/lat/queries/L2003060159071B1C4B8727_PH00.fits
+Resolving fermi.gsfc.nasa.gov (fermi.gsfc.nasa.gov)... 2001:4d0:2310:150::26, 129.164.179.26
+Connecting to fermi.gsfc.nasa.gov (fermi.gsfc.nasa.gov)|2001:4d0:2310:150::26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34560 (34K) [application/fits]
+Saving to: ‘L2003060159071B1C4B8727_PH00.fits’
+
+          L20030601   0%[                    ]       0  --.-KB/s                        L200306015  11%[=>                  ]   3.93K  11.5KB/s                       L2003060159  15%[==>                 ]   5.34K  7.47KB/s                      L20030601590  24%[===>                ]   8.17K  7.73KB/s                     L200306015907  36%[======>             ]  12.41K  8.85KB/s                    L2003060159071  45%[========>           ]  15.24K  8.73KB/s                   L2003060159071B  53%[=========>          ]  18.07K  8.63KB/s                  L2003060159071B1  61%[===========>        ]  20.89K  8.58KB/s                 L2003060159071B1C  74%[=============>      ]  25.14K  9.06KB/s                L2003060159071B1C4  78%[==============>     ]  26.55K  8.54KB/s    eta 1s     L2003060159071B1C4B  82%[===============>    ]  27.96K  8.11KB/s    eta 1s     2003060159071B1C4B8  95%[==================> ]  32.21K  6.72KB/s    eta 0s     L2003060159071B1C4B 100%[===================>]  33.75K  7.05KB/s    in 4.8s    
+
+2020-03-06 15:03:38 (7.05 KB/s) - ‘L2003060159071B1C4B8727_PH00.fits’ saved [34560/34560]
+
